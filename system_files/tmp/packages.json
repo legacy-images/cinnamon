@@ -2,7 +2,6 @@
     "all": {
         "include": {
             "all": [
-                "gnome-boxes",
                 "gnome-software",
                 "python3-pip",
                 "timeshift",
